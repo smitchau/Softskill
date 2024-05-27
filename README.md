@@ -8,4 +8,4 @@ Link-2 (Linkedin Profile Link) :- https://www.linkedin.com/in/smit-chauhan-02951
 
 Link-3 (Project) :- https://youtube.com/shorts/xijixr86szM?feature=share
 
-Link :- 4 :- https://docs.google.com/presentation/d/1UAGCf__QgYnrY9EJ7K7Zl7Emgs7gxzNY/edit?usp=sharing&ouid=107945141810636684143&rtpof=true&sd=true
+Link :- 4 :- https://drive.google.com/file/d/1yEk0UOtu8FCci0G5jOCd0W6W-JjSZWRe/view?usp=sharing
