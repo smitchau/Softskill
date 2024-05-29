@@ -8,4 +8,7 @@ Link-2 (Linkedin Profile Link) :- https://www.linkedin.com/in/smit-chauhan-02951
 
 Link-3 (Project) :- https://youtube.com/shorts/xijixr86szM?feature=share
 
-Link :- 4 :- https://drive.google.com/file/d/1yEk0UOtu8FCci0G5jOCd0W6W-JjSZWRe/view?usp=sharing
+Link-4 :- https://drive.google.com/file/d/1yEk0UOtu8FCci0G5jOCd0W6W-JjSZWRe/view?usp=sharing
+
+Link-5 (Technology):- https://youtube.com/shorts/ytQrgxdm9DM?feature=share
+
