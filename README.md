@@ -12,3 +12,5 @@ Link-4 :- https://drive.google.com/file/d/1yEk0UOtu8FCci0G5jOCd0W6W-JjSZWRe/view
 
 Link-5 (Technology):- https://youtube.com/shorts/ytQrgxdm9DM?feature=share
 
+Link-6(Hr Questions):-
+
